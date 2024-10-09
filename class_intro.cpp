@@ -24,13 +24,15 @@ int main()
 
    cout<<t1.name<<" ki salary-> "<<t1.salary<<" and dept:"<<t1.dept <<" and subjects "<<t1.subjects;
    
-   
-
      return 0;
-
-
-
-
 
    
 }
+
+/***********************************************************
+ 
+
+o/p -> Arpit ki salary -> 85000 and dept:CSE and subjects C++
+
+
+ */
