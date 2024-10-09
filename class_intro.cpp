@@ -34,5 +34,4 @@ int main()
 
 o/p -> Arpit ki salary -> 85000 and dept:CSE and subjects C++
 
-
  */
