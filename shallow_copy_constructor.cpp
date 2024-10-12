@@ -30,10 +30,13 @@ class Teacher{
      }
     void getinfo()
     {
+
       cout<<" name: "<<name<<endl;
       cout<<" dept: "<<dept<<endl;
       cout<<" salary: "<<salary<<endl;
       cout<<" subject: "<<subjects<<endl;
+      cout<<" I am back"<<endl; 
+
     }
 
 };
