@@ -60,7 +60,8 @@ int main()
 /* 
 Explanation 
 Explanation of Copy Constructor
-Copy Constructor: The default copy constructor in C++ is automatically provided by the compiler if you do not define one. It performs a shallow copy, meaning it copies the values of the attributes from the source object to the new object. In your case, t2 is created as a copy of t1.
+Copy Constructor: The default copy constructor in C++ is automatically provided by the compiler if you do not define one. It performs a shallow copy, meaning it
+ copies the values of the attributes from the source object to the new object. In your case, t2 is created as a copy of t1.
 
 Attributes Copied:
 

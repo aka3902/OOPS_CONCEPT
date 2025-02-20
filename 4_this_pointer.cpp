@@ -4,7 +4,6 @@ using namespace std;
 class Teacher{
 
 // properties or attributes
-
     public:
     string name;
     string dept;

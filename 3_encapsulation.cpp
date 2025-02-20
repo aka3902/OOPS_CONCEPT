@@ -12,8 +12,6 @@ class Teacher{
     string name;
     string dept;
     string subjects;
-
-
      
     void setsalary(float s) 
     {
@@ -41,10 +39,5 @@ int main()
   //cout<<t1.salary; // not allowed because we can't directly access the private member if we have to use it  we have to write like this t1.getsalary() 
     
      return 0;
-
-
-
-
-
    
 }
